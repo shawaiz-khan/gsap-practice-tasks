@@ -1,0 +1,12 @@
+.box-container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 100vh;
+}
+
+.box {
+    width: 9rem;
+    height: 9rem;
+    background-color: aqua;
+}
