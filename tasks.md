@@ -3,7 +3,7 @@
 - [x] Animate a box from left to right using `gsap.to()`.
 - [x] Fade in text on page load with `opacity`.
 - [x] Change background color of a div over 2 seconds.
-- [ ] Scale a button on hover using `gsap.to()` inside a `mouseenter` and `mouseleave` event.
+- [x] Scale a button on hover using `gsap.to()` inside a `mouseenter` and `mouseleave` event.
 
 ---
 
