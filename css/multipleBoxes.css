@@ -1,0 +1,30 @@
+.boxes-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.box1,
+.box2,
+.box3,
+.box4 {
+    width: 200px;
+    height: 200px;
+}
+
+.box1 {
+    background-color: aqua;
+}
+
+.box2 {
+    background-color: azure;
+}
+
+.box3 {
+    background-color: lightgreen;
+}
+
+.box4 {
+    background-color: lightsalmon;
+}
