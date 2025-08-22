@@ -18,7 +18,7 @@
 ### **Intermediate**
 
 - [x] Build a **timeline**: a logo fades in, then slides up, then rotates.
-- [ ] Animate elements on **scroll** using `ScrollTrigger`.
+- [x] Animate elements on **scroll** using `ScrollTrigger`.
 - [ ] Create a card hover effect where the card pops out, rotates slightly, and returns.
 - [ ] Animate an SVG path using `drawSVG` or `stroke-dasharray`.
 - [ ] Animate a modal opening: backdrop fades in, modal scales up.
