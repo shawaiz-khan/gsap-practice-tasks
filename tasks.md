@@ -12,13 +12,12 @@
 - [x] Animate multiple boxes with a stagger effect.
 - [x] Create a looping bounce effect on an icon.
 - [x] Rotate an element continuously using `repeat: -1`.
-- [ ] Animate text coming from the bottom into view (like a title reveal).
 
 ---
 
 ### **Intermediate**
 
-- [ ] Build a **timeline**: a logo fades in, then slides up, then rotates.
+- [x] Build a **timeline**: a logo fades in, then slides up, then rotates.
 - [ ] Animate elements on **scroll** using `ScrollTrigger`.
 - [ ] Create a card hover effect where the card pops out, rotates slightly, and returns.
 - [ ] Animate an SVG path using `drawSVG` or `stroke-dasharray`.
