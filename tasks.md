@@ -11,9 +11,8 @@
 
 - [x] Animate multiple boxes with a stagger effect.
 - [x] Create a looping bounce effect on an icon.
-- [ ] Rotate an element continuously using `repeat: -1`.
+- [x] Rotate an element continuously using `repeat: -1`.
 - [ ] Animate text coming from the bottom into view (like a title reveal).
-- [ ] 
 
 ---
 
